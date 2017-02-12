@@ -1,0 +1,16 @@
+{
+    "asistencia":{
+       "Carlos" : {
+        
+                "entrada" : {
+                    "hora" : "09",
+                    "minuto" : "00"
+                },
+                "llegada" :{
+                    "hora" : "09",
+                    "minuto" : "30"
+                },
+                "mensaje" : "Has llegado tarde"
+            }
+        }
+    }
